@@ -1,0 +1,42 @@
+.margin{
+    border:black dotted 1px;
+    margin:5px;
+    padding:5px;
+}
+.header{
+    border: green solid 1px;
+    background-color: yellow;
+    text-decoration: underline;
+    padding:5px;
+}
+.box1{
+    border:black solid 1px;
+}
+.intro{
+    border: green solid 1px;
+    background-color: yellow;
+    text-decoration: underline;
+    padding:5px;
+}
+.para{
+    border:none;
+    padding:5px;
+    background-color: pink;
+}
+.img{
+    border:black dotted 1px;
+    width: 50%;
+    padding:5px;
+}
+.box3{
+    border:black solid 1px;
+    width:100%;
+    padding:5px;
+}
+.btn{
+    width:50%;
+    color:white;
+    background-color: green;
+    font-size: 12px;
+    border:solor black 1px;
+}
